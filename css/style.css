@@ -312,7 +312,7 @@ h4 {
 	}
 	.contactInfo {
 		font-size: 35px;
-		padding-bottom: 30%;
+		padding-bottom: 25%;
 	}
 }
 @media (min-width: 2560px) { /* 1440p */
@@ -342,6 +342,6 @@ h4 {
 	}
 	.contactInfo {
 		font-size: 50px;
-		padding-bottom: 30%;
+		padding-bottom: 25%;
 	}
 }
